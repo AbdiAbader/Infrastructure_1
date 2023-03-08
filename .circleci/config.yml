@@ -112,3 +112,4 @@ workflows:
           requires:
             - upload_file
       - create_infrastructure
+      - configure_infrastructure
